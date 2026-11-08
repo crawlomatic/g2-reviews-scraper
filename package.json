@@ -1,0 +1,24 @@
+{
+  "name": "g2-reviews-scraper",
+  "version": "1.0.0",
+  "description": "Fast, reliable G2 reviews scraper to extract verified user ratings, pros & cons, company sizes, and reviewer profiles without getting blocked.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "g2",
+    "g2-scraper",
+    "software-reviews",
+    "saas-intelligence",
+    "b2b-data",
+    "sentiment-analysis",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
